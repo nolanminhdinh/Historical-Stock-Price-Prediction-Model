@@ -1,1 +1,14 @@
+# Data Collection
+vnstock
 
+# Data Processing & Analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Deep Learning 
+scikit-learn
+tensorflow
