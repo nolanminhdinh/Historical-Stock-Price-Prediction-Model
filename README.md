@@ -55,9 +55,9 @@ Mỗi lớp trong mô hình đóng vai trò như một bước trong tư duy ph�
 
 ## 4. Công nghệ & Cấu trúc
 
-**Programming language**: Python
-**Libraries & Frameworks**: TensorFlow (Keras), Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Vnstock.
-**Tools & Platforms**: Google Colab, Jupyter Notebook, Git/GitHub.
+* **Programming language**: Python
+* **Libraries & Frameworks**: TensorFlow (Keras), Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Vnstock.
+* **Tools & Platforms**: Google Colab, Jupyter Notebook, Git/GitHub.
 
 Cấu trúc thư mục dự án:
 
